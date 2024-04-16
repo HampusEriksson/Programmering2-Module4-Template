@@ -8,7 +8,7 @@ import requests
 # Take the https address and open it in your browser to see the API content
 
 # Uppgift 1
-
+xxx = "TODO"
 response = requests.get("https://api.coindesk.com/v1/bpi/currentprice.json")
 answer = response.json()
 print(f"One bitcoin is worth {xxx} EUR right now.")
@@ -24,7 +24,7 @@ print(f"One USD is worth {xxx} SEK right now.")
 response = requests.get("https://randomuser.me/api/")
 answer = response.json()
 print(
-    f"Your agent name is {' '.join(answer['results'][0]['name'].values())} and you live in {xxxyourcountryxxx}"
+    f"Your agent name is {' '.join(answer['results'][0]['name'].values())} and you live in {xxx}"
 )
 
 # Uppgift 4

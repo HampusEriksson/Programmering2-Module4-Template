@@ -1,3 +1,5 @@
+# INGÅR INTE I KURSEN VT24 MEN GÖR GÄRNA OM DU VILL ÄNDÅ
+
 # Ditt namn
 # Din klass
 # Datum
