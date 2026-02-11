@@ -7,6 +7,8 @@
 # Massor av API finns på: https://github.com/public-apis/public-apis
 # Du kan även googla på API
 
+# Du gör antingen denna uppgift eller uppgift 3.
+
 # Du kan behöva köra "pip install requests" i terminalen, precis som i modul 3 för ursina.
 import requests
 

@@ -1,0 +1,58 @@
+UPPGIFT 1 - API ÖVNING
+
+Ditt namn: 
+Din klass: 
+Datum: 
+
+Instruktioner:
+- Fyll i de ställen där det säger xxx eller raderna med TODO
+- Ta https-adressen och öppna den i din webbläsare för att se API-innehållet
+
+Uppgift 1a:
+Hämta data från https://open.er-api.com/v6/latest/USD
+Skriv ut: "One USD is worth {xxx} SEK right now."
+
+Uppgift 1b:
+Hämta data från https://randomuser.me/api/
+Skriv ut: "Your agent name is {namn från API} and you live in {xxx}"
+
+Uppgift 1c:
+Hämta data från https://www.thecocktaildb.com/api/json/v1/1/search.php?s=mojito
+Skriv ut: "The different mojito drinks I can offer is:"
+Använd en for-loop för att skriva ut alla mojito-drinkar från API:et
+
+---
+
+UPPGIFT 2 - API
+
+Ditt namn: 
+Din klass: 
+Datum: 
+
+Instruktioner:
+- Skapa ett program som använder ett API
+- Programmet måste använda sig av input från användaren
+- Många API finns på: https://github.com/public-apis/public-apis
+- Du kan även googla på API
+- Du gör antingen denna uppgift eller uppgift 3
+- Du kan behöva köra "pip install requests" i terminalen
+
+Krav:
+- Använd requests-biblioteket
+- Gör ett API-anrop
+- Kontrollera status_code och hantera fel
+
+---
+
+UPPGIFT 3 - SOCKETS
+
+INGÅR INTE I KURSEN VT24 MEN GÖR GÄRNA OM DU VILL ÄNDÅ
+
+Ditt namn: 
+Din klass: 
+Datum: 
+
+Instruktioner:
+- Skapa ett enkelt spel som använder sockets
+- Exempel: rock, paper, scissors mot datorn eller ett spel där användaren ska gissa ett tal som datorn har slumpat fram
+- Du gör antingen denna uppgift eller uppgift 2
